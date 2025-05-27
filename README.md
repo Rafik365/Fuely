@@ -1,16 +1,28 @@
-# trip_tank_fuely
+# fuely
 
-A new Flutter project.
+This graduation project aims to develop an AI model that predicts vehicle fuel consumption based on various input parameters such as speed, distance, weight, and environmental factors.
 
-## Getting Started
+## 📌 Project Overview
 
-This project is a starting point for a Flutter application.
+Fuel efficiency is a growing concern worldwide due to environmental and economic reasons. This project leverages machine learning techniques to predict fuel consumption and assist in designing more eco-friendly and efficient vehicles.
 
-A few resources to get you started if this is your first Flutter project:
+## 📊 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Predicts fuel consumption in liters based on multiple input parameters.
+- Trained on real or simulated vehicle data.
+- Includes performance evaluation metrics (MAE, RMSE, R²).
+- Easy to use for both technical and non-technical users.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- scikit-learn
+- TensorFlow / Keras *(if used)*
+- Matplotlib / Seaborn
+- Flutter
+- Dart
+- Open Weather API
+- Google Maps API
+
