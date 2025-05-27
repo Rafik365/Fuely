@@ -1,28 +1,36 @@
-# fuely
+# 🚗 Fuely – Fuel Consumption Prediction App
 
-This graduation project aims to develop an AI model that predicts vehicle fuel consumption based on various input parameters such as speed, distance, weight, and environmental factors.
+**Fuely** is a mobile application built with Flutter that helps users estimate fuel consumption for vehicles using machine learning. It allows users to input vehicle details and trip parameters, then returns an accurate prediction of the fuel required using a trained AI model.
 
-## 📌 Project Overview
+---
 
-Fuel efficiency is a growing concern worldwide due to environmental and economic reasons. This project leverages machine learning techniques to predict fuel consumption and assist in designing more eco-friendly and efficient vehicles.
+## 📱 About the App
 
-## 📊 Features
+This project was developed as a graduation project to address the increasing need for eco-friendly and cost-effective trip planning. The app leverages an ML model trained using Python and libraries such as XGBoost and Scikit-learn to make accurate predictions based on real vehicle data.
 
-- Predicts fuel consumption in liters based on multiple input parameters.
-- Trained on real or simulated vehicle data.
-- Includes performance evaluation metrics (MAE, RMSE, R²).
-- Easy to use for both technical and non-technical users.
+---
+
+## 🎯 Features
+
+- Predicts fuel consumption based on input parameters (e.g., distance, speed, engine size).
+- Clean and interactive mobile UI.
+- Uses a trained XGBoost regression model for predictions.
+- Model built with real vehicle datasets.
+- Simple, real-time results.
+
+---
 
 ## 🛠️ Technologies Used
 
-- Python
-- Pandas
-- NumPy
-- scikit-learn
-- TensorFlow / Keras *(if used)*
-- Matplotlib / Seaborn
+### Mobile App:
 - Flutter
 - Dart
-- Open Weather API
-- Google Maps API
 
+### Machine Learning:
+- Python
+- XGBoost
+- scikit-learn
+- pandas
+- numpy
+- matplotlib
+ 
