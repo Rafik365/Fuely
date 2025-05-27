@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "240341093654",
+    "project_id": "fuely-f1e59",
+    "storage_bucket": "fuely-f1e59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240341093654:android:967d3bb7cc97f23c1c1437",
+        "android_client_info": {
+          "package_name": "com.example.trip_tank_fuely"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240341093654-ddrsepa2kl4sqgmh635hhqjv1dgeaera.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU0-iV-or7JmAfFs_I2doqa8FKw3J_WuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240341093654-ddrsepa2kl4sqgmh635hhqjv1dgeaera.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "240341093654-sg073n2nhd0np3687n2lf56ehdr92edb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.tripTankFuely"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
